@@ -41,6 +41,7 @@ Used geoviews and the Geoapify API to create a map that displays a point for eve
 Create a DataFrame that finds our ideal weather conditions, including, max temperature and cloudiness. 
 <img width="737" alt="Screenshot 2023-04-15 at 8 59 46 PM" src="https://user-images.githubusercontent.com/124847109/232262116-5975764f-6f83-4539-bd2a-57b31836df78.png">
 
+
 Find the first hotel located within 10,000 meters.
 <img width="516" alt="Screenshot 2023-04-15 at 9 00 21 PM" src="https://user-images.githubusercontent.com/124847109/232262128-760c100e-4aab-409f-bfa2-53756e0d4bb5.png">
 
